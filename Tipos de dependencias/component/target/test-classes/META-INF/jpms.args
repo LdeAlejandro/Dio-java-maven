@@ -1,0 +1,4 @@
+--patch-module
+one.digitalinnovation.component=_
+--add-reads
+one.digitalinnovation.component=ALL-UNNAMED
