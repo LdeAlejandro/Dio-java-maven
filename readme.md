@@ -24,10 +24,6 @@ mvn archetype:generate -DgroupId=one.digital.innovation -DartifactId=service -Da
 
 # Maven Quick Start Guide
 
-This guide provides commands and steps to quickly set up and manage a Maven project, including single-module and multi-module projects.
-
----
-
 ## **Basic Maven Commands**
 
 ### **Create a Basic Maven Project**
@@ -122,4 +118,3 @@ Ensure the `parent` project has a `pom.xml` file with modules listed:
 - **`archetypeArtifactId`**: Specifies the Maven archetype template to use.
 - **Multi-module Projects**: The parent project coordinates and aggregates submodules, which can be compiled and packaged together.
 
-For more details, refer to the [Maven documentation](https://maven.apache.org/).
